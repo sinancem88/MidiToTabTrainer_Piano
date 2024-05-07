@@ -1,6 +1,6 @@
-# Midi To Tab Trainer for Piano
+# Midi To Tab Trainer for Piano (API from Maxim Dobroselsky, please check: https://github.com/melanchall/drywetmidi)
 
-This project is a music trainer created in Unity that allows users to convert MIDI files into tablatures for the piano. It provides the ability to practice various music pieces and display the tablatures on the screen.
+This basic beginners-project, is a music trainer created in Unity that allows users to convert MIDI files into tablatures for the piano. It provides the ability to practice various music pieces and display the tablatures on the screen.
 
 ## Installation
 
@@ -27,6 +27,8 @@ To use the program, follow these steps:
 
 ## Support
 
-For any questions or issues, you can reach me at sinanbalkanlioglu@outlook.de
+For any questions or issues, please contact @sinancem88
+
+For detailed information about the DryWetMidi API, please contact @melanchall
 
 Thank you for using this music trainer!
