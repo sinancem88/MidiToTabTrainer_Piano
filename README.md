@@ -1,24 +1,29 @@
+# Midi To Tab Trainer for Piano
+
+This project is a music trainer created in Unity that allows users to convert MIDI files into tablatures for the piano. It provides the ability to practice various music pieces and display the tablatures on the screen.
+
 ## Installation
 
-To run the project on your computer, first clone the repository:
+To run the project on your local machine, follow these steps:
 
-```
-git clone https://github.com/sinancem88/MidiToTabTrainer_Piano.git
-```
+1. Clone the repository:
+   ```
+   git clone https://github.com/sinancem88/MidiToTabTrainer_Piano.git
+   ```
 
-Then, install the required dependencies:
+2. Open the project in Unity.
 
-```
-pip install -r requirements.txt
-```
+3. Ensure that you have all the necessary assets and packages installed as per the project requirements.
 
 ## Usage
 
-To start the program, run the `main.py` file:
+To use the program, follow these steps:
 
-```
-python main.py
-```
+1. Open the Unity project.
+
+2. Run the project by clicking on the play button in the Unity editor.
+
+3. Follow the on-screen instructions to convert MIDI files to piano tablatures and practice music pieces.
 
 ## Support
 
